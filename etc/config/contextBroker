@@ -29,7 +29,7 @@
 BROKER_USER=orion
 
 # BROKER_PORT - the port/socket where orion-broker will listen for connections
-BROKER_PORT=1026
+BROKER_PORT=1027
 
 # BROKER_LOG_DIR - Where to log to
 BROKER_LOG_DIR=/var/log/contextBroker
